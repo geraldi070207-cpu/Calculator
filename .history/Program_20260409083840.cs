@@ -20,7 +20,7 @@ static int pembagian (int a, int b)
 }
 
 
-Console.WriteLine(a+" + "+b+" = "+ penjumlahan(a,b));
-Console.WriteLine(a+" - "+b+" = "+ pengurangan(a,b));
-Console.WriteLine(a+" * "+b+" = "+ perkalian(a,b));
-Console.WriteLine(a+" / "+b+" = "+ pembagian(a,b));
+Console.WriteLine(a.ToString()," + ",b," = "+ penjumlahan(a,b));
+Console.WriteLine(a.ToString()," - ",b," = "+ pengurangan(a,b));
+Console.WriteLine(a.ToString()," * ",b," = "+ perkalian(a,b));
+Console.WriteLine(a.ToString()," / ",b," = "+ pembagian(a,b));
