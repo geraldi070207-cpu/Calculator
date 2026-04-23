@@ -1,0 +1,7 @@
+C:\Users\LEGION\25.61.0290\Assignment (4)\MemberClassProjectOne\MemberClassProjectOne\obj\Debug\MemberClassProjectOne.csproj.AssemblyReference.cache
+C:\Users\LEGION\25.61.0290\Assignment (4)\MemberClassProjectOne\MemberClassProjectOne\obj\Debug\MemberClassProjectOne.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\25.61.0290\Assignment (4)\MemberClassProjectOne\MemberClassProjectOne\bin\Debug\MemberClassProjectOne.exe.config
+C:\Users\LEGION\25.61.0290\Assignment (4)\MemberClassProjectOne\MemberClassProjectOne\bin\Debug\MemberClassProjectOne.exe
+C:\Users\LEGION\25.61.0290\Assignment (4)\MemberClassProjectOne\MemberClassProjectOne\bin\Debug\MemberClassProjectOne.pdb
+C:\Users\LEGION\25.61.0290\Assignment (4)\MemberClassProjectOne\MemberClassProjectOne\obj\Debug\MemberClassProjectOne.exe
+C:\Users\LEGION\25.61.0290\Assignment (4)\MemberClassProjectOne\MemberClassProjectOne\obj\Debug\MemberClassProjectOne.pdb
